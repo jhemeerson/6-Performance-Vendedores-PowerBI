@@ -104,7 +104,7 @@ Painel interativo com a performance de uma equipe de vendas.
 * Vendedores que bateram a meta
 * Ticket Médio de vendas por Vendedor
 
-### Segmentações
+### Segmentações:
 * Meta Variavel
 * Sellers ID
 * State do Vendedor
