@@ -50,6 +50,7 @@ Painel interativo com a performance de uma equipe de vendas.
 
 ### Meta Variavel:
    *Permite que o CEO ajuste de acordo com a meta que ele queira ver, tornando uma visualização dinamica em tempo real.*
+   *Atualizando o cartão "Vendedores que bateram a meta"*
 
 ## Respondendo a 3º solicitação do CEO:
 
@@ -93,4 +94,23 @@ Painel interativo com a performance de uma equipe de vendas.
 <div align="center">
 <img src="https://github.com/user-attachments/assets/718f2dbb-c214-4b71-9847-0ee79961aa9f" />
 </div>
+
+<br>
+
+### Cartões:
+* Soma de Vendas
+* Quantidade de Vendedores
+* Valor médio por item vendido
+* Vendedores que bateram a meta
+* Ticket Médio de vendas por Vendedor
+
+### Segmentações
+* Meta Variavel
+* Sellers ID
+* State do Vendedor
+### Gráficos:
+
+* Funil de Sellers X Maior Frete
+* Mapa de Vendas X Localização (Granularidade de País, Estado e Cidade)
+* Tabela de Sellers ID, Soma de Frete (Com formatação condicional), Média de Frete e Frete Acima de 25K (Com formatação condicional).
 
