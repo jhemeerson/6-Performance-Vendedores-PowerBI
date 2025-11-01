@@ -92,7 +92,7 @@ Painel interativo com a performance de uma equipe de vendas.
 <br>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/718f2dbb-c214-4b71-9847-0ee79961aa9f" />
+<img src="https://github.com/user-attachments/assets/e4b6c450-61f1-4a31-afaa-48747f83203e" />
 </div>
 
 <br>
