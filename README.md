@@ -1,6 +1,8 @@
 # 6-Performance-Vendedores-PowerBI
 Painel interativo com a performance de uma equipe de vendas.
 
+[Relatório Online:](https://app.powerbi.com/view?r=eyJrIjoiNWRkYjI3YTktMTFkMy00NzIyLThkNjEtOTc0MzExMzViNGY5IiwidCI6ImY3YTVkZDQwLTZjODctNDE0Yy1hMjBlLTgxNmJiM2JjM2ZiYSJ9)
+
 # As perguntas de Negócio / Solicitações do CEO:
 
 1) Me faça um **KPI dinâmico** para eu avaliar metas para o total vendido.
@@ -113,4 +115,8 @@ Painel interativo com a performance de uma equipe de vendas.
 * Funil de Sellers X Maior Frete
 * Mapa de Vendas X Localização (Granularidade de País, Estado e Cidade)
 * Tabela de Sellers ID, Soma de Frete (Com formatação condicional), Média de Frete e Frete Acima de 25K (Com formatação condicional).
+
+---
+
+[Relatório Online:](https://app.powerbi.com/view?r=eyJrIjoiNWRkYjI3YTktMTFkMy00NzIyLThkNjEtOTc0MzExMzViNGY5IiwidCI6ImY3YTVkZDQwLTZjODctNDE0Yy1hMjBlLTgxNmJiM2JjM2ZiYSJ9)
 
